@@ -9,7 +9,9 @@ Este repositório contém os materiais de apresentação da nossa proposta de va
 ## Conteúdo
 
 - **Proposta de Valor**: Descrição detalhada do valor que nossa solução traz para os usuários, destacando os benefícios e as vantagens competitivas.
+🔗 Link: https://www.canva.com/design/DAGFUvUwZ4M/h_EteihM-hXkpVc7ezDG8g/view?utm_content=DAGFUvUwZ4M&utm_campaign=designshare&utm_medium=link&utm_source=editor
 - **Persona**: Perfis detalhados dos nossos usuários-alvo, incluindo suas características, necessidades, desejos e dores.
+🔗 Link: https://www.canva.com/design/DAGFUz5A0sA/7XFVwQSpuFIX3FaUXNegxg/view?utm_content=DAGFUz5A0sA&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ## Integrantes:
 
